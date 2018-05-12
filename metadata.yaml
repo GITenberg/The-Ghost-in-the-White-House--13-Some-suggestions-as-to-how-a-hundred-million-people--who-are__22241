@@ -1,0 +1,31 @@
+_repo: The-Ghost-in-the-White-House--13-Some-suggestions-as-to-how-a-hundred-million-people--who-are__22241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Gerald Stanley
+    birthdate: 1862
+    deathdate: 1944
+    gutenberg_agent_id: '6257'
+    url: http://www.gutenberg.org/2009/agents/6257
+description: ''
+gutenberg_issued: '2007-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22241'
+  lccn: '20008716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HN'
+- !lcsh 'Democracy'
+- !lcsh 'United States -- Politics and government'
+title: "The Ghost in the White House\r\nSome suggestions as to how a hundred million\
+  \ people (who are supposed in a vague, helpless way to haunt the white house) can\
+  \ make themselves felt with a president, how they can back him up, express themselves\
+  \ to him, be expressed by him, and get what they want"
+url: http://www.gutenberg.org/ebooks/22241
