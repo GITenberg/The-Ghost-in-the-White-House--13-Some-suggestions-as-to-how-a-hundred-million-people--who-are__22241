@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6257'
     url: http://www.gutenberg.org/2009/agents/6257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22241#The-Ghost-in-the-White-House--13-Some-suggestions-as-to-how-a-hundred-million-people--who-are_
 gutenberg_issued: '2007-08-04'
 gutenberg_type: Text
 identifiers:
